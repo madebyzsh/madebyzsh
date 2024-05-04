@@ -7,10 +7,12 @@
 AZ-104: Azure Administrator Associate <br>
 AZ-500: Azure Security Engineer Associate <br>
 AZ-400: Azure DevOps Engineer Expert <br>
+AZ-900: Azure Fundamentals <br>
+DP-900: Azure Data Fundamentals <br>
+SC-900: Security, Compliance, and Identity Fundamentals <br>
 
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) <br>
+003: HashiCorp Certified: Terraform Associate
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassansohaib) 
