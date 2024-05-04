@@ -3,7 +3,13 @@
 
 
 ## 📜 Certifications:
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) AZ-104: Azure Administrator Associate
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) AZ-500: Azure Security Engineer Associate
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) AZ-400: Azure DevOps Engineer Expert
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassansohaib) 
