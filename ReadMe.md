@@ -3,7 +3,7 @@
 
 
 ## 📜 Certifications:
-- https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassansohaib) 
