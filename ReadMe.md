@@ -1,4 +1,4 @@
-# 💫 About Me: Long time Sys Admin transitioned to Cloud Engineering. Specializing in Azure, learning AWS and GCP.
+# 💫 About Me: Long time Sys Admin transitioned to Cloud Engineering. Specializing in Azure & learning AWS and GCP.
 🔭 I’m currently working on Terraform and Azure.<br>🤝 I’m looking for help with finding a new role and putting these skills to use.<br>🌱 I’m currently learning Kubernetes, Ansible and AWS.<br>💬 Ask me about Azure, VMware, Linux.<br>⚡ Fun fact I have destroyed and recreated my homelab far too many times
 
 
