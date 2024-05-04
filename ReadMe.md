@@ -1,6 +1,8 @@
 # 💫 About Me: Long time Sys Admin transitioned to Cloud Engineering. Specializing in Azure & learning AWS/GCP on the side.
 🔭 I’m currently working on Terraform and Azure.<br>🤝 I’m looking for help with finding a new role and putting these skills to use.<br>🌱 I’m currently learning Kubernetes, Ansible and AWS.<br>💬 Ask me about Azure, VMware, Linux.<br>⚡ Fun fact I have destroyed and recreated my homelab far too many times
 
+## 🌐 Certifications:
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassansohaib) 
