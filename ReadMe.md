@@ -3,7 +3,7 @@
 
 
 ## 📜 Certifications:
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) AZ-104: Azure Administrator Associate
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) AZ-104: Azure Administrator Associate /n
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) AZ-500: Azure Security Engineer Associate
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) AZ-400: Azure DevOps Engineer Expert
 
